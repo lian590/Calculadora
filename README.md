@@ -24,5 +24,5 @@ Projeto de uma **calculadora simples** com interface gráfica, desenvolvida com 
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seunome/calculadora-python.git
+   git clone https://github.com/lian590/Calculadora.git
 
